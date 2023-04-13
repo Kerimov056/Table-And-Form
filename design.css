@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table{
+    position: relative;
+    margin-bottom: 15px;
+}
+
+tr:nth-child(even) {
+    background-color: #11d1d1;
+}
+.tes{
+    position: absolute;
+    padding-bottom: 20px;
+}
