@@ -20,3 +20,9 @@ tr:nth-child(even) {
     position: absolute;
     padding-bottom: 20px;
 }
+table tr td{
+    border-style: dashed;
+}
+table th {
+    border-style: dotted;
+}
